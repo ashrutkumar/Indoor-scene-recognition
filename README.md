@@ -11,3 +11,5 @@ Transfer Learning was used in this task. Pre-trained weights of the model on the
 Along with transfer learning, data-augmentation, learning rate annealing, early stopping,etc. were also used in the training process.
 <br><br>
 This model was originally created for the kaggle challenge ( https://www.kaggle.com/c/qstp-deep-learning-2019 ) . The model acheived 3rd rank in the contest amongst 30 participants(Top 1 %). 
+<br><br>
+The notebook contains the link to the weights of the final model, so that it can directly be used without training all over.
